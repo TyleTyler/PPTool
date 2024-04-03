@@ -1,0 +1,23 @@
+{
+  "name": "pptool",
+  "version": "1.0.0",
+  "description": "Layer 8 Phone Provisioner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyleTyler/PPTool.git"
+  },
+  "author": "Alan and Tyler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TyleTyler/PPTool/issues"
+  },
+  "homepage": "https://github.com/TyleTyler/PPTool#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-reader": "^1.0.12"
+  }
+}
